@@ -4,3 +4,27 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+body{
+    background-color:#b8def1;
+}
+/* header */
+.header{height: 70px;
+    padding-left: 1rem;
+    background-color: white;
+    
+
+}
+#logo{vertical-align: middle;
+    
+
+}
+#title{
+    display: inline-block;
+    line-height: 70px;
+    vertical-align: middle;
+    font-size: 2.5rem;
+    }
+    /* /header */
+
+    /* main */
+    
