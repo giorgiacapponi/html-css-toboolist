@@ -6,6 +6,7 @@
 }
 body{
     background-color:#b8def1;
+    
 }
 /* header */
 .header{height: 70px;
@@ -27,4 +28,71 @@ body{
     /* /header */
 
     /* main */
+    .container{
+        width: 70%;
+        margin: 0 auto;
+        background-color: white;
+        padding: 20px;
+        margin-top: 2rem;
+        border-radius: 10px;
+    }
+    .two{margin-top: 1.5px;
+        
+    }
+    .stick{display: inline-block;
+        padding: 0.5em;
+        
+        border-radius: 10px;
+        border:none;
+        line-height: 1rem;
+        text-align: center;
+        color: white;
+        font-size: 0.7rem;
+        
+        
+
+
+    }
     
+
+    
+    #button-white{border-radius: 5px;
+        color:grey;
+        background-color: white;
+        border: solid grey 0.5px;
+    }
+    ul{list-style-type:none;}
+    li{
+        height: 1rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .blue{
+        background-color: #47adf1;
+        color: white;
+        
+    
+    }
+
+
+    
+    .title-menu{
+        display:inline-block;
+        margin-top: 2rem;
+    }
+
+    .violet{
+        background-color: violet;
+    }
+    .aqua{background-color: aqua;}
+    .orange{background-color: orange;}
+    .pink{background-color: pink;}
+    .green{background-color: green;}
+
+
+.check{
+    color: green;}
+    .cross{color: red;}
+    #button-blue{
+        border-radius: 5px;
+    }
